@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VideoApp</string>
+    <string name="buffering_string">Buferring</string>
+</resources>
